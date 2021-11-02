@@ -1,4 +1,4 @@
-# Meta DAO
+# Magic Internet Money
 
 It's magic! 
 
